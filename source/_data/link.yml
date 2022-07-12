@@ -1,0 +1,18 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 邹湘中
+      link: https://blog.zouxiangzhong.com/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=1271218214&s=640
+      descr: 生如蝼蚁当立鸿鹄之志，命薄似纸应有不屈之心。
+    - name: 邹湘中
+      link: https://tzy1997.com/
+      avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
+      descr: 窗外有月色和雨，而我在想你。
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
